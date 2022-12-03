@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Any thing required for method goes here]]>
+    </line>
+    <line>
+      <![CDATA[Actual Button Name : NMMS (2021-22)]]>
+    </line>
+    <line>
+      <![CDATA[Expected Button Name : NMMS (2021-22)]]>
+    </line>
+    <line>
+      <![CDATA[Logout from App.]]>
+    </line>
+    <line>
+      <![CDATA[Any thing required for method goes here]]>
+    </line>
+    <line>
+      <![CDATA[Actual Button Name : NMMS (2022-23)]]>
+    </line>
+    <line>
+      <![CDATA[Expected Button Name : NMMS (2022-23)]]>
+    </line>
+    <line>
+      <![CDATA[Logout from App.]]>
+    </line>
+    <line>
+      <![CDATA[Any thing required for method goes here]]>
+    </line>
+    <line>
+      <![CDATA[Button is enabled : true]]>
+    </line>
+    <line>
+      <![CDATA[Logout from App.]]>
+    </line>
+    <line>
+      <![CDATA[Any thing required for method goes here]]>
+    </line>
+    <line>
+      <![CDATA[Button is enabled : true]]>
+    </line>
+    <line>
+      <![CDATA[Logout from App.]]>
+    </line>
+    <line>
+      <![CDATA[Any thing required for method goes here]]>
+    </line>
+    <line>
+      <![CDATA[Logout from App.]]>
+    </line>
+    <line>
+      <![CDATA[Any thing required for method goes here]]>
+    </line>
+    <line>
+      <![CDATA[Actual button text : शाळा लॉग इन
+School Login]]>
+    </line>
+    <line>
+      <![CDATA[Expected button text : शाळा लॉग इन
+School Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout from App.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-29T22:17:56 IST" name="Default suite" finished-at="2022-11-29T22:18:19 IST" duration-ms="22779">
+    <groups>
+      <group name="button">
+        <method signature="NMMS_Login_Test.verifybtn2()[pri:2, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" name="verifybtn2" class="NMMS2022_23Login_Test.NMMS_Login_Test"/>
+        <method signature="NMMS_Login_Test.verifybtnisenabled2()[pri:4, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" name="verifybtnisenabled2" class="NMMS2022_23Login_Test.NMMS_Login_Test"/>
+        <method signature="NMMS_Login_Test.veriftybtn1()[pri:1, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" name="veriftybtn1" class="NMMS2022_23Login_Test.NMMS_Login_Test"/>
+        <method signature="NMMS_Login_Test.verifybtnisenabled1()[pri:3, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" name="verifybtnisenabled1" class="NMMS2022_23Login_Test.NMMS_Login_Test"/>
+      </group> <!-- button -->
+    </groups>
+    <test started-at="2022-11-29T22:17:56 IST" name="Default test" finished-at="2022-11-29T22:18:19 IST" duration-ms="22779">
+      <class name="NMMS2022_23Login_Test.NMMS_Login_Test">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:17:57 IST" name="openbrowser" finished-at="2022-11-29T22:18:08 IST" duration-ms="11224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:08 IST" name="beforetest" finished-at="2022-11-29T22:18:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Any thing required for method goes here]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="veriftybtn1()[pri:1, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:08 IST" name="veriftybtn1" finished-at="2022-11-29T22:18:10 IST" duration-ms="2247" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual Button Name : NMMS (2021-22)]]>
+            </line>
+            <line>
+              <![CDATA[Expected Button Name : NMMS (2021-22)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- veriftybtn1 -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="logoutfromapp" finished-at="2022-11-29T22:18:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from App.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="beforetest" finished-at="2022-11-29T22:18:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Any thing required for method goes here]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="verifybtn2()[pri:2, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="verifybtn2" finished-at="2022-11-29T22:18:10 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual Button Name : NMMS (2022-23)]]>
+            </line>
+            <line>
+              <![CDATA[Expected Button Name : NMMS (2022-23)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifybtn2 -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="logoutfromapp" finished-at="2022-11-29T22:18:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from App.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="beforetest" finished-at="2022-11-29T22:18:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Any thing required for method goes here]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="verifybtnisenabled1()[pri:3, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="verifybtnisenabled1" finished-at="2022-11-29T22:18:10 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Button is enabled : true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifybtnisenabled1 -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="logoutfromapp" finished-at="2022-11-29T22:18:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from App.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="beforetest" finished-at="2022-11-29T22:18:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Any thing required for method goes here]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="verifybtnisenabled2()[pri:4, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:10 IST" name="verifybtnisenabled2" finished-at="2022-11-29T22:18:11 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Button is enabled : true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifybtnisenabled2 -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:11 IST" name="logoutfromapp" finished-at="2022-11-29T22:18:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from App.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method signature="clickonnmms22_23()[pri:5, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:11 IST" name="clickonnmms22_23" finished-at="2022-11-29T22:18:15 IST" depends-on-methods="NMMS2022_23Login_Test.NMMS_Login_Test.verifybtnisenabled2" duration-ms="4979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonnmms22_23 -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:11 IST" name="beforetest" finished-at="2022-11-29T22:18:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Any thing required for method goes here]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:15 IST" name="logoutfromapp" finished-at="2022-11-29T22:18:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from App.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:15 IST" name="beforetest" finished-at="2022-11-29T22:18:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Any thing required for method goes here]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="verifybtntxtstatus()[pri:6, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:15 IST" name="verifybtntxtstatus" finished-at="2022-11-29T22:18:16 IST" depends-on-methods="NMMS2022_23Login_Test.NMMS_Login_Test.clickonnmms22_23" duration-ms="242" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual button text : शाळा लॉग इन
+School Login]]>
+            </line>
+            <line>
+              <![CDATA[Expected button text : शाळा लॉग इन
+School Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifybtntxtstatus -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:16 IST" name="logoutfromapp" finished-at="2022-11-29T22:18:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from App.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:NMMS2022_23Login_Test.NMMS_Login_Test@17497425]" started-at="2022-11-29T22:18:16 IST" name="closebrowser" finished-at="2022-11-29T22:18:19 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- NMMS2022_23Login_Test.NMMS_Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
